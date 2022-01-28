@@ -1,4 +1,4 @@
-package playlist;
+package composite_playlist.playlist;
 
 import java.util.ArrayList;
 

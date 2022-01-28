@@ -1,6 +1,6 @@
 
-import playlist.Playlist;
-import playlist.Song;
+import composite_playlist.playlist.Playlist;
+import composite_playlist.playlist.Song;
 
 public class Program {
 

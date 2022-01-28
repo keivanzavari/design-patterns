@@ -1,4 +1,4 @@
-package playlist;
+package composite_playlist.playlist;
 
 public class Song implements IComponent {
 	public String songName;
